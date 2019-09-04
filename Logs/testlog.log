@@ -1,0 +1,276 @@
+2019-08-31 10:34:00,985 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 10:34:03,871 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 10:34:41,401 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 10:34:42,010 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 10:34:42,376 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 10:34:42,630 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 10:34:45,030 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 10:34:45,082 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 10:34:45,580 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 10:34:45,641 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 10:35:05,458 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 10:35:05,964 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 10:35:08,292 - com.DriverScript.TestScript -INFO - close Browser
+2019-08-31 10:35:09,399 - com.DriverScript.TestScript -INFO - close BrowserPASS
+2019-08-31 10:41:29,405 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 10:41:30,994 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 10:41:47,581 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 10:41:47,780 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 10:41:47,798 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 10:41:47,908 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 10:41:48,317 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 10:41:48,417 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 10:41:48,832 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 10:41:48,912 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 10:41:53,358 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 10:41:53,475 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 10:41:56,548 - com.DriverScript.TestScript -INFO - close Browser
+2019-08-31 10:41:56,674 - com.DriverScript.TestScript -INFO - close BrowserPASS
+2019-08-31 10:45:26,055 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 10:45:39,188 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 10:46:11,889 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 10:46:25,966 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 10:46:44,268 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 10:46:50,826 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 10:47:05,068 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 10:47:17,377 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 10:47:53,967 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 10:48:29,560 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 10:49:04,325 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 10:50:04,761 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 10:50:23,602 - com.DriverScript.TestScript -INFO - close Browser
+2019-08-31 10:50:30,042 - com.DriverScript.TestScript -INFO - close BrowserPASS
+2019-08-31 11:07:38,554 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 11:07:41,741 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 11:07:59,360 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 11:07:59,495 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 11:07:59,525 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 11:07:59,663 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 11:08:00,538 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 11:08:01,069 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 11:08:01,539 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 11:08:01,672 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 11:08:11,716 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 11:08:11,847 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 11:08:22,035 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 11:11:40,298 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 11:11:41,086 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 11:11:51,135 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 11:11:51,277 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 11:11:51,312 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 11:11:51,407 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 11:11:51,841 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 11:11:51,942 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 11:11:52,438 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 11:11:52,517 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 11:11:57,335 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 11:11:57,415 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 11:12:07,580 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 11:15:24,750 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 11:15:27,012 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 11:15:41,877 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 11:15:41,985 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 11:15:42,020 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 11:15:42,183 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 11:15:42,691 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 11:15:42,862 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 11:15:43,544 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 11:15:43,737 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 11:15:51,026 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 11:15:51,103 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 11:16:01,410 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 11:18:48,610 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 11:19:04,006 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 11:19:38,715 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 11:19:48,124 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 11:19:54,942 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 11:20:01,789 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 11:20:10,566 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 11:20:22,819 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 11:20:28,799 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 11:20:37,928 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 11:20:47,469 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 11:20:57,938 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 11:21:44,638 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 11:35:12,697 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 11:35:13,526 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 11:35:38,563 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 11:35:38,989 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 11:35:39,001 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 11:35:39,146 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 11:35:39,488 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 11:35:39,781 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 11:35:40,602 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 11:35:40,672 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 11:35:49,077 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 11:35:49,213 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 11:35:59,366 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 11:42:41,591 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 11:42:43,737 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 11:42:52,815 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 11:42:52,931 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 11:42:52,953 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 11:42:53,044 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 11:42:53,574 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 11:42:53,663 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 11:42:54,585 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 11:42:54,664 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 11:42:59,917 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 11:42:59,988 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 11:43:10,656 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 11:54:38,045 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 11:54:39,594 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 11:54:53,365 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 11:54:53,519 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 11:54:53,537 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 11:54:53,866 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 11:54:54,576 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 11:54:54,664 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 11:54:55,135 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 11:54:55,222 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 11:55:01,326 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 11:55:01,427 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 11:55:11,573 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 11:58:47,388 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 11:58:48,483 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 11:58:55,890 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 11:58:56,013 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 11:58:56,042 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 11:58:56,268 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 11:58:57,077 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 11:58:57,190 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 11:58:57,598 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 11:58:57,678 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 11:59:03,436 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 11:59:03,522 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 11:59:13,739 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 12:20:14,069 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 12:20:14,655 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 12:20:31,781 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 12:20:31,938 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 12:20:31,979 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 12:20:32,054 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 12:20:32,495 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 12:20:32,609 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 12:20:33,209 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 12:20:33,291 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 12:20:39,551 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 12:20:39,629 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 12:20:49,820 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 12:22:55,446 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 12:22:56,704 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 12:23:09,948 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 12:23:10,044 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 12:23:10,116 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 12:23:10,433 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 12:23:11,203 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 12:23:11,474 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 12:23:11,930 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 12:23:12,068 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 12:23:20,972 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 12:23:21,080 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 12:23:31,320 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 12:26:10,166 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 12:26:11,339 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 12:26:22,733 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 12:26:22,862 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 12:26:22,875 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 12:26:23,068 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 12:26:23,841 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 12:26:23,950 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 12:26:24,408 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 12:26:24,514 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 12:26:31,098 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 12:26:31,179 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 12:26:41,352 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 12:30:00,637 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 12:30:02,578 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 12:30:25,399 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 12:30:25,511 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 12:30:25,539 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 12:30:25,616 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 12:30:26,127 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 12:30:26,239 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 12:30:26,659 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 12:30:26,739 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 12:30:30,844 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 12:30:30,918 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 12:30:41,149 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 12:37:16,787 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 12:37:18,765 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 12:37:30,688 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 12:37:30,786 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 12:37:30,814 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 12:37:31,007 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 12:37:31,709 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 12:37:31,876 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 12:37:32,640 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 12:37:32,832 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 12:37:41,151 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 12:37:41,241 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 12:37:51,657 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 12:40:17,424 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 12:40:19,657 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 12:40:43,270 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 12:40:43,384 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 12:40:43,399 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 12:40:43,477 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 12:40:43,817 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 12:40:43,968 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 12:40:44,376 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 12:40:44,471 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 12:40:52,794 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 12:40:52,929 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 12:41:03,575 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 12:48:37,473 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 12:48:38,566 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 12:48:55,294 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 12:48:55,444 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 12:48:55,455 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 12:48:55,545 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 12:48:56,265 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 12:48:56,450 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 12:48:57,150 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 12:48:57,248 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 12:49:11,666 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 12:49:12,160 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 12:49:22,313 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 12:52:30,807 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 12:52:32,861 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 12:52:40,940 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 12:52:41,323 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 12:52:41,345 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 12:52:41,434 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 12:52:41,858 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 12:52:41,961 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 12:52:42,380 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 12:52:42,497 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 12:52:47,283 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 12:52:47,381 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 12:52:57,560 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 14:29:09,738 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 14:29:11,537 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 14:29:44,017 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 14:29:44,119 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 14:29:44,132 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 14:29:44,218 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 14:29:44,786 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 14:29:44,867 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 14:29:46,023 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 14:29:46,107 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 14:29:54,452 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 14:29:54,527 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 14:30:04,649 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
+2019-08-31 14:35:14,843 - com.DriverScript.TestScript -INFO - OPEN BROWSER
+2019-08-31 14:35:43,054 - com.DriverScript.TestScript -INFO - OPEN BROWSERPASS
+2019-08-31 14:36:12,213 - com.DriverScript.TestScript -INFO - ENTER URL
+2019-08-31 14:36:24,397 - com.DriverScript.TestScript -INFO - ENTER URLPASS
+2019-08-31 14:36:34,542 - com.DriverScript.TestScript -INFO - wait for Element
+2019-08-31 14:36:42,774 - com.DriverScript.TestScript -INFO - wait for ElementPASS
+2019-08-31 14:36:50,147 - com.DriverScript.TestScript -INFO - Enter USERNAME
+2019-08-31 14:37:01,669 - com.DriverScript.TestScript -INFO - Enter USERNAMEPASS
+2019-08-31 14:37:08,525 - com.DriverScript.TestScript -INFO - ENTER PASSWORD
+2019-08-31 14:37:13,034 - com.DriverScript.TestScript -INFO - ENTER PASSWORDPASS
+2019-08-31 14:37:21,146 - com.DriverScript.TestScript -INFO - CLICK on LOGIN
+2019-08-31 14:37:28,529 - com.DriverScript.TestScript -INFO - CLICK on LOGINPASS
+2019-08-31 14:51:11,593 - com.DriverScript.TestScript -INFO - Login ValidationFAIL
