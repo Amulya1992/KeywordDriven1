@@ -88,7 +88,7 @@ public class TestScript
 						log.info(description+"FAIL");
 						File src= ((TakesScreenshot)driver).getScreenshotAs(OutputType.FILE);
 						//FileHandler.copy(src,new File("./ScreenShot"+"-"+description+".png"));
-						String dst = "E:/amulya/OrangeHR/ScreenShot"+description+".png";
+						String dst = "E:/amulya/OrangeHR/ScreenShot"+description+"-"+".png";
 						FileUtils.copyFile(src,new File(dst));
 						break;
 					}
