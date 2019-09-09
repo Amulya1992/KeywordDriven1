@@ -11,11 +11,13 @@ import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.io.FileHandler;
+import org.testng.annotations.Listeners;
 
 import com.Functionlibrary.CommonFunctions;
 import com.utility.ExcelFileUtil;
 import com.utility.PropertyFileUtil;
 
+@Listeners(com.Functionlibrary.Listeners.class)
 public class TestScript 
 {
 	public Logger log= Logger.getLogger(TestScript.class);
